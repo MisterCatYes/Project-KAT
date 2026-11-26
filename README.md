@@ -1,1 +1,1 @@
-![Project KAT](assets/banner.png)
+![Project KAT](Assets/banner.png)
