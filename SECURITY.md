@@ -20,7 +20,7 @@ anyone can use it in the meantime, and that helps nobody.
 Report it privately instead:
 
 1. Join the Discord: https://discord.gg/SSbX6eat9j
-2. Open a private ticket in the server and put the report in there.
+2. Open a private ticket in the server by asking KAT to open a ticket and put the report in there.
    Only you and the staff can see a ticket.
 3. In the ticket, say what is wrong. If you can, add detail on what
    you think the bug actually is, where it is, and how someone would
