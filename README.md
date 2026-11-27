@@ -18,3 +18,6 @@ On windows click on setup.py and you can start it by running python setup.py
 
 
 Please create a channel on the server named KAT
+
+Join the community here!
+https://discord.gg/dBkf4s27Cr
