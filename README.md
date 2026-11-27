@@ -15,3 +15,6 @@ Setup
 5. Afterwards with all the information open the Modification Script and Insert the information when it asks for you to insert it. DO NOT ADD ANYTHING ELSE for it, just copy and paste the keys and your user ID plainly
 
 On windows click on setup.py and you can start it by running python setup.py
+
+
+Please create a channel on the server named KAT
